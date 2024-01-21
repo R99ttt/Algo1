@@ -38,8 +38,6 @@ To see the results of each question, run the `main` method in the `ass_1` class.
 
 Feel free to explore and use the functions independently for specific use cases.
 
-## License
-This code is released under the [MIT License](LICENSE).
 
 ## Authors
 - Rami AboRabia
